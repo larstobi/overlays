@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/ls5000.git"
+		name="ls5000"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/ls5000/tree/master</link>
+		<description>ls5000 overlay</description>
+	</overlay>
+</layman>
