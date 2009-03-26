@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/lottanzb.git"
+		name="lottanzb"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/lottanzb/tree/master</link>
+		<description>LottaNZB overlay</description>
+	</overlay>
+</layman>
