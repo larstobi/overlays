@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/acpid.git"
+		name="acpid"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/acpid/tree/master</link>
+		<description>acpid overlay</description>
+	</overlay>
+</layman>
