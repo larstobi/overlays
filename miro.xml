@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/miro.git"
+		name="miro"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/miro/tree/master</link>
+		<description>miro overlay</description>
+	</overlay>
+</layman>
