@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/hplip.git"
+		name="hplip"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/hplip/tree/master</link>
+		<description>hplip overlay</description>
+	</overlay>
+</layman>
