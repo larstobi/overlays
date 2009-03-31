@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/emacs-w3m.git"
+		name="emacs-w3m"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/emacs-w3m/tree/master</link>
+		<description>emacs-w3m overlay</description>
+	</overlay>
+</layman>
