@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/magit.git"
+		name="magit"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/magit/tree/master</link>
+		<description>magit overlay</description>
+	</overlay>
+</layman>
