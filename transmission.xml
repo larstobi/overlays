@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/transmission.git"
+		name="transmission"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/transmission/tree/master</link>
+		<description>Transmission overlay</description>
+	</overlay>
+</layman>
