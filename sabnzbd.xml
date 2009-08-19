@@ -2,10 +2,10 @@
 <layman>
 	<overlay 
 		type="git"
-		src="git://github.com/larstobi/overlays.git"
+		src="git://github.com/larstobi/sabnzbd.git"
 		name="sabnzbd"
 		contact="larstobi@snota.no">
-		<link>http://github.com/larstobi/overlays/tree/sabnzbd</link>
+		<link>http://github.com/larstobi/sabnzbd/tree/master</link>
 		<description>SabNZBd overlay</description>
 	</overlay>
 </layman>
