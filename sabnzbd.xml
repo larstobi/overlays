@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/overlays.git"
+		name="sabnzbd"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/overlays/tree/sabnzbd</link>
+		<description>SabNZBd overlay</description>
+	</overlay>
+</layman>
