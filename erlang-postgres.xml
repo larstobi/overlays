@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/erlang-postgres.git"
+		name="erlang-postgres"
+		contact="larstobi@snota.no">
+		<link>http://github.com/larstobi/erlang-postgres/tree/master</link>
+		<description>erlang-postgres overlay</description>
+	</overlay>
+</layman>
