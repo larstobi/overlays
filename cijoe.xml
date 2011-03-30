@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/cijoe-overlay.git"
+		name="cijoe"
+		contact="larstobi@relatime.no">
+		<link>http://github.com/larstobi/cijoe/tree/master</link>
+		<description>CI Joe overlay</description>
+	</overlay>
+</layman>
