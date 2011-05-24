@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay 
+		type="git"
+		src="git://github.com/larstobi/ebuild-net-ldap.git"
+		name="net-ldap"
+		contact="larstobi@relatime.no">
+		<link>http://github.com/larstobi/ebuild-net-ldap/tree/master</link>
+		<description>Ruby Net::LDAP overlay</description>
+	</overlay>
+</layman>
