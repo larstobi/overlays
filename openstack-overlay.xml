@@ -1,0 +1,13 @@
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>openstack-overlay</name>
+    <description>Openstack gentoo ebuilds by larstobi</description>
+    <homepage>http://github.com/larstobi/openstack-overlay/tree/master</homepage>
+    <owner type="person">
+      <email>larstobi@relatime.no</email>
+      <name>Lars Tobias Skjong-Børsting</name>
+    </owner>
+    <source type="git">git://github.com/larstobi/openstack-overlay.git</source>
+    <feed>http://github.com/larstobi/openstack-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
